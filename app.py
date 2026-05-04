@@ -2,7 +2,7 @@ import streamlit as st
 import math
 
 # --- ページ設定 ---
-st.set_page_config(page_title="デシベル計算アプリ", layout="centered")
+st.set_page_config(page_title="dBm→dBμV変換アプリ", layout="centered")
 
 # --- 見た目の設定（CSS） ---
 st.markdown("""
